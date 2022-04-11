@@ -6,7 +6,9 @@ Aquesta pràctica s'ha realitzat sota el context de l'assignatura Tipologia i ci
 En ella es treballa la tècnica de web scraping per extreure dades d'una pàgina web i generar un dataset.
 
 En el nostre cas, s'extreuran dades de la pàgina web del Servei Meteorològic de Catalunya, també conegut com ‘meteocat’, la qual proporciona dades diaries capturades desde estacions meteorològiques distribuïdes a tot el territori català.
-El dataset generat conté diferents variables meteorològiques registrades diàriament per les estacions situades al Alt Penedes (Sant Sadurní d’Anoia, Sant Martí Sarroca, Canaletes, la Granada i Font Rubí) entre els anys 2017 i 2021.
+El dataset generat conté diferents variables meteorològiques registrades diàriament per les estacions situades al Alt Penedes (Sant Sadurní d’Anoia, Sant Martí Sarroca, Canaletes, la Granada i Font Rubí) entre els anys 2017 i 2021. Podeu trobar el dataset a la pàgina web de Zenodo a través del següent enllaç:
+
+# FALTA L'ENLLAÇ DEL DATASET
 
 ## Membres del grup
 La pràctica ha estat realitzada per l'Albert Estadella Valls i l'Àngels Calvet i Mirabent.
