@@ -11,7 +11,7 @@ El dataset generat conté diferents variables meteorològiques registrades diàr
 ## Membres del grup
 La pràctica ha estat realitzada per l'Albert Estadella Valls i l'Àngels Calvet i Mirabent.
 
-## Codi (meteo_scraping.py)
+## Codi: meteo_scraping.py
 El codi implementat en Python esta preparat per extreure les dades meteorològiques especificades per l'usuari en funció de l'estació o estacions meteorològiques i el període de temps.
 
 ### Requeriments
