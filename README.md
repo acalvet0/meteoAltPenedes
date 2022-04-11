@@ -18,12 +18,12 @@ El codi implementat en Python esta preparat per extreure les dades meteorològiq
 Instal·lar el webdriver de Chrome, el qual es pot trobar a la pàgina següent: https://chromedriver.chromium.org/
 
 ### Variables a modificar
-estacions = "" # nom de les estacions desitjades separades per comes, ex: "Sant Sadurní d'Anoia,Sant Martí Sarroca,Canaletes,la Granada,Font-rubí"
+estacions = nom de les estacions desitjades separades per comes, ex: "Sant Sadurní d'Anoia,Sant Martí Sarroca,Canaletes,la Granada,Font-rubí"
 
-dia_inici = '' # data inicial en format DD.MM.AAAA
+dia_inici = data inicial en format DD.MM.AAAA
 
-dia_final = '' # data final en format DD.MM.AAAA
+dia_final = data final en format DD.MM.AAAA
 
-driver_path = '' # directori al webdriver de Chrome
+driver_path = directori al webdriver de Chrome
 
-path_results = '' # directori on volem guardar els resultats
+path_results = directori on volem guardar els resultats
